@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
         <head>
-                <title>Playbook For Devops Interview</title>
+                Playbook For Devops Interview
         </head>
         <body>
                 <p>Hello World!</p>
